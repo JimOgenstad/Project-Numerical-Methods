@@ -1,5 +1,5 @@
 # Projekt-Numeriska-metoder
-Laborationsprojekt i kursen SF1550 på KTH
+Laborationsprojekt för grundkurs i numeriska metoder på KTH
 
 
 I projektet studeras ljudvågor i ett slutet rum. Först härleds matematiska ekvationer för ljudvågorna i rummet, sedan löses två optimeringsproblem, nämligen:
